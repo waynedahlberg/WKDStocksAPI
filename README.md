@@ -9,7 +9,7 @@ A Swift Package / Library for asynchronous API access to finance.yahoo.com REST 
 -- Fetch quotes via ticker symbol
 -- Uses Swift concurrency (async/await)
 -- Fetches raw JSON data
--- Available on iOS(13+), macOS(12+), macCatalyst(13+), tvOS(13+) and watchOS(8+)
+-- Available on iOS, macOS, macCatalyst, tvOS, watchOS
 -- Use SwiftUI or UIKit
 
 ### Available via Swift Package Manager (SPM)
