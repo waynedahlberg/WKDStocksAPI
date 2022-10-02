@@ -4,13 +4,14 @@
 A Swift Package / Library for asynchronous API access to finance.yahoo.com REST API endpoints. H/T to Alfian.
 
 ## Features
--- Fetching chart data for an array of timeframes
--- Search for stock ticker symbols by company name
--- Fetch quotes via ticker symbol
--- Uses Swift concurrency (async/await)
--- Fetches raw JSON data
--- Available on iOS, macOS, macCatalyst, tvOS, watchOS
--- Use SwiftUI or UIKit
+
+- Fetching chart data for an array of timeframes
+- Search for stock ticker symbols by company name
+- Fetch quotes via ticker symbol
+- Uses Swift concurrency (async/await)
+- Fetches raw JSON data
+- Available on iOS, macOS, macCatalyst, tvOS, watchOS
+- Use SwiftUI or UIKit
 
 ### Available via Swift Package Manager (SPM)
 
