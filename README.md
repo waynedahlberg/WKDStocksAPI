@@ -1,4 +1,5 @@
 # WKDStocksAPI
+![api screenshot](./hero.jpg "WKD Stocks API")
 
 A Swift Package / Library for asynchronous API access to finance.yahoo.com REST API endpoints. H/T to Alfian.
 
