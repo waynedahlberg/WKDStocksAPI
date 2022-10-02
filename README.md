@@ -1,3 +1,3 @@
 # StocksAPI
 
-A description of this package.
+An Swift Package for asynchronous API access to finance.yahoo.com endpoints. A work in progress. 
