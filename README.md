@@ -1,2 +1,3 @@
-# WKDStocksAPI
-Swift Async API interface for finance.yahoo.com
+# StocksAPI
+
+A description of this package.
