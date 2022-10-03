@@ -28,7 +28,7 @@ struct StocksAPIExec {
   //
   //    print(chartResponse)
   
-  static let stocksAPI = StocksAPI()
+  static let stocksAPI = WKDStocksAPI()
   
   static func main() async {
     do {

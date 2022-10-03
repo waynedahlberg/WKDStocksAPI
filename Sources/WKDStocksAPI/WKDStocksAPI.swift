@@ -1,6 +1,6 @@
 import Foundation
 
-public struct StocksAPI {
+public struct WKDStocksAPI {
   private let session = URLSession.shared
   private let jsonDecoder = {
     let decoder = JSONDecoder()
